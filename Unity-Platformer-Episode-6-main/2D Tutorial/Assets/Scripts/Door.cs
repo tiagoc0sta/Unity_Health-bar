@@ -16,4 +16,4 @@ public class Door : MonoBehaviour
                 cam.MoveToNewRoom(previousRoom);
         }
     }
-}
+}///
